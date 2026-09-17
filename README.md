@@ -8,6 +8,12 @@
 * ⚒️  I build, ship, and maintain my own web apps - I can do for yours too!
 * ✉️  You can contact me at [amirulsyamil.ahmad@gmail.com](mailto:amirulsyamil.ahmad@gmail.com)
 
+### 🤝 Socials
+
+<p align="left">
+<a href="https://www.linkedin.com/in/amirulsyamils/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="36" height="36" alt="LinkedIn" /></a>
+</p>
+
 ## 🔧 Tech stacks
 
 ### 💻 Languages & Frameworks
@@ -44,11 +50,14 @@
 <a href="https://docs.netlify.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=netlify" width="36" height="36" alt="Netlify" /></a>
 <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" width="36" height="36" alt="Git" /></a>
 <a href="https://docs.github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="36" height="36" alt="GitHub" /></a>
+<a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" width="36" height="36" alt="VS Code" /></a>
 <a href="https://www.notion.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=notion" width="36" height="36" alt="Notion" /></a>
 <a href="https://claude.ai/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/claude/D97757" width="36" height="36" alt="Claude" /></a>
 <a href="https://www.microsoft.com/en-bm/p/microsoft-365-copilot/9wzdncrd29v9" target="_blank" rel="noreferrer"><img src="https://store-images.s-microsoft.com/image/apps.21661.9007199267161390.afb6b8cd-d194-4a99-b633-03cd80118a21.e9a094be-ee73-4e19-8cdf-49a27b0974ed?q=90&w=128&h=128" width="36" height="36" alt="Microsoft 365 Copilot" /></a>
-<a href="https://workspace.google.com/products/drive/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/googledrive/4285F4" width="36" height="36" alt="Google Drive" /></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_365_%282022%29.svg" width="36" height="36" alt="Microsoft 365" /></a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Microsoft_OneDrive_Icon_%282025_-_present%29.svg" width="36" height="36" alt="OneDrive" /></a>
+<a href="https://workspace.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/google/4285F4" width="36" height="36" alt="Google Workspace" /></a>
+<a href="https://workspace.google.com/products/drive/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/googledrive/4285F4" width="36" height="36" alt="Google Drive" /></a>
 </p>
 
 ### ⏳ Flibbertigibbeting
@@ -65,5 +74,6 @@
 <a href="https://firebase.google.com/docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" width="36" height="36" alt="Firebase" /></a>
 <a href="https://docs.railway.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/railway/black/white" width="36" height="36" alt="Railway" /></a>
 <a href="https://redis.io/docs/latest/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redis" width="36" height="36" alt="Redis" /></a>
+<a href="https://www.sqlite.org/docs.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sqlite" width="36" height="36" alt="SQLite" /></a>
 <a href="https://docs.stripe.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/stripe/635BFF" width="36" height="36" alt="Stripe" /></a>
 </p>
