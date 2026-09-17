@@ -20,6 +20,10 @@
 ### 💻 Languages & Frameworks
 
 <p align="left">
+<a href="https://docs.expo.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/expo/black/white" width="36" height="36" alt="Expo" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" width="36" height="36" alt="Next.js" /></a>
+<a href="https://tauri.app/start/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tauri" width="36" height="36" alt="Tauri" /></a>
 <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" width="36" height="36" alt="C" /></a>
 <a href="https://en.cppreference.com/w/cpp" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" width="36" height="36" alt="C++" /></a>
 <a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" width="36" height="36" alt="Java" /></a>
@@ -27,22 +31,19 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=javascript" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" width="36" height="36" alt="Python" /></a>
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=golang" width="36" height="36" alt="Go" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" width="36" height="36" alt="Next.js" /></a>
 <a href="https://tailwindcss.com/docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwindcss" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://getbootstrap.com/docs/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://docs.expo.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/expo/black/white" width="36" height="36" alt="Expo" /></a>
-<a href="https://tauri.app/start/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tauri" width="36" height="36" alt="Tauri" /></a>
 <a href="https://www.electronjs.org/docs/latest/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=electron" width="36" height="36" alt="Electron" /></a>
 </p>
 
 ### 🗄 Databases & Storage
 
 <p align="left">
+<a href="https://supabase.com/docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=supabase" width="36" height="36" alt="Supabase" /></a>
 <a href="https://www.postgresql.org/docs/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgresql" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://supabase.com/docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=supabase" width="36" height="36" alt="Supabase" /></a>
+
 </p>
 
 ### ☁ Cloud / DevOps / Tools
