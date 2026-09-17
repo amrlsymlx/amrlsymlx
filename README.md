@@ -4,7 +4,7 @@
 <h2 align="center">Syamil here!</h2>
 
 * 🌍  I'm based in Kuala Lumpur
-* 💻  Your friendly freelance indie coder in your neighbourhood
+* 💻  Your friendly freelance indie coder in the neighbourhood
 * ⚒️  I build, ship, and maintain my own web apps - I can do for yours too!
 * 🖊️ I own a trembling pen plotter too 🤷, let me know what I gotta do about it.
 * ✉️  You can contact me at [amirulsyamil.ahmad@gmail.com](mailto:amirulsyamil.ahmad@gmail.com)
