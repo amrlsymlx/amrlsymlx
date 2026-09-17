@@ -88,6 +88,7 @@
 <a href="https://dart.dev/guides" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=dart" width="36" height="36" alt="Dart" /></a>
 <a href="https://docs.flutter.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flutter" width="36" height="36" alt="Flutter" /></a>
 <a href="https://www.swift.org/documentation/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=swift" width="36" height="36" alt="Swift" /></a>
+<a href="https://kotlinlang.org/docs/home.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kotlin" width="36" height="36" alt="Kotlin" /></a>
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/android/3DDC84" width="36" height="36" alt="Android SDK" /></a>
 <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/xcode/147EFB" width="36" height="36" alt="Xcode" /></a>
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=idea" width="36" height="36" alt="IntelliJ IDEA" /></a>
