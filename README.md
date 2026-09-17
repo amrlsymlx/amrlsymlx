@@ -3,8 +3,8 @@
 <h2 align="center">Syamil here!</h2>
 
 * 🌍  I'm based in Kuala Lumpur
-* 💻  Your friendly freelance indie coder, builder & developer in the neighbourhood
-* ⚒️  I build, ship, and maintain my own web apps - I can do for yours too! (A quick end-to-end solution)
+* 💻  Your friendly freelance indie coder in the neighbourhood
+* ⚒️  I build, ship, and maintain my own web apps - I can do for yours too!
 * 🖊️ I own a trembling pen plotter too 🤷, let me know what I gotta do about it.
 * ✉️  You can contact me at [amirulsyamil.ahmad@gmail.com](mailto:amirulsyamil.ahmad@gmail.com)
 
@@ -63,6 +63,7 @@
 <a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" width="36" height="36" alt="VS Code" /></a>
 <a href="https://developers.cloudflare.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cloudflare" width="36" height="36" alt="Cloudflare" /></a>
 <a href="https://www.notion.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=notion" width="36" height="36" alt="Notion" /></a>
+<a href="https://help.obsidian.md/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=obsidian" width="36" height="36" alt="Obsidian" /></a>
 <a href="https://claude.ai/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/claude/D97757" width="36" height="36" alt="Claude" /></a>
 <a href="https://www.microsoft.com/en-bm/p/microsoft-365-copilot/9wzdncrd29v9" target="_blank" rel="noreferrer"><img src="https://store-images.s-microsoft.com/image/apps.21661.9007199267161390.afb6b8cd-d194-4a99-b633-03cd80118a21.e9a094be-ee73-4e19-8cdf-49a27b0974ed?q=90&w=128&h=128" width="36" height="36" alt="Microsoft 365 Copilot" /></a>
 <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_365_%282022%29.svg" width="36" height="36" alt="Microsoft 365" /></a>
@@ -99,4 +100,5 @@
 <a href="https://docs.gitlab.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gitlab" width="36" height="36" alt="GitLab" /></a>
 <a href="https://support.atlassian.com/bitbucket-cloud/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bitbucket" width="36" height="36" alt="Bitbucket" /></a>
 <a href="https://shopify.dev/docs" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/shopify/7AB55C" width="36" height="36" alt="Shopify" /></a>
+<a href="https://graphify.net/" target="_blank" rel="noreferrer"><img src="https://graphify.net/mcpservers/graphify-mark.png" width="36" height="36" alt="Graphify" /></a>
 </p>
