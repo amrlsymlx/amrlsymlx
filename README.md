@@ -6,6 +6,7 @@
 * 🌍  I'm based in Kuala Lumpur
 * 💻  Your friendly freelance indie coder in your neighbourhood
 * ⚒️  I build, ship, and maintain my own web apps - I can do for yours too!
+* 🖊️ I own a trembling pen plotter too 🤷, let me know what I gotta do about it.
 * ✉️  You can contact me at [amirulsyamil.ahmad@gmail.com](mailto:amirulsyamil.ahmad@gmail.com)
 
 ### 🤝 Socials
@@ -32,6 +33,7 @@
 <a href="https://getbootstrap.com/docs/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://docs.expo.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/expo/black/white" width="36" height="36" alt="Expo" /></a>
 <a href="https://tauri.app/start/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tauri" width="36" height="36" alt="Tauri" /></a>
+<a href="https://www.electronjs.org/docs/latest/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=electron" width="36" height="36" alt="Electron" /></a>
 </p>
 
 ### 🗄 Databases & Storage
